@@ -23,6 +23,16 @@ Hi! I'm a machine learning researcher with a strong interest in optimizing meta-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=csalais3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+## 📜 Resume  
+📄 **Want to see my full resume?**  
+Click below to check it out!  
+<p align="center">
+  <a href="https://github.com/yourusername/yourresume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=read-the-docs" alt="Resume" />
+  </a>
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=csalais3&icon=9&color=6)](https://visitcount.itsvg.in)
 
