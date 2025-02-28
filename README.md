@@ -14,7 +14,7 @@ Hi! I'm a machine learning researcher with a strong interest in optimizing meta-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=csalais3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <div align="Left">
         <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<Csalais3>"&icon=9&color=6" width="300" height="200"/>  
+            src="https://widgetbite.com/stats/Csalais3"&icon=9&color=6" width="300" height="200"/>  
     </div>
 
 ## 🏆 GitHub Trophies
