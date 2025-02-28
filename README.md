@@ -1,12 +1,7 @@
-
-<!-- Visitor Counter -->
 <p align="center">
-  <a href="https://github.com/csalais3">
-    <img src="https://komarev.com/ghpvc/?username=csalais3&style=flat-square&color=blue" alt="csalais3" />
-  </a>
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page_id=csalais3&style=plastic&color=red" alt="Visitor Counter"/>
 </p>
 
----
 # 💫 About Me:
 Hi! I'm a machine learning researcher with a strong interest in optimizing meta-learning techniques. Currently, I'm a third-year Computer Science major at the Georgia Institute of Technology, where I explore cutting-edge advancements in AI. My long-term goal is to pursue a PhD and contribute to the field of generalizable AI.<br><br>When I'm not deep into research, I enjoy tackling complex problems, experimenting with new algorithms, and engaging with the broader ML community. Always open to collaborations and discussions—let’s connect!
 
