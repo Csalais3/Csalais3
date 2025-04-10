@@ -1,39 +1,158 @@
+<h2 align="center"><samp>Hi 👋 I'm Christian S</samp></h2>
+<h3 align="center"><samp>A Machine Learning Researcher Based in the United States</samp> </h3>
+<!--Visitor Number Badge -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Csalais3&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
 
-# 💫 About Me:
-Hi! I'm a machine learning researcher with a strong interest in optimizing meta-learning techniques. Currently, I'm a third-year Computer Science major at the Georgia Institute of Technology, where I explore cutting-edge advancements in AI. My long-term goal is to pursue a PhD and contribute to the field of generalizable AI.<br><br>When I'm not deep into research, I enjoy tackling complex problems, experimenting with new algorithms, and engaging with the broader ML community. Always open to collaborations and discussions—let’s connect!
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/realism656.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/csalais3) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chrissal0604) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csalais3@gatech.edu) 
-
-# 💻 Languages & Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=csalais3&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=csalais3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=csalais3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=csalais3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
+      <br>Lets Connect!
+      https://linkedin.com/in/csalais3
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="45" height="45" />
+      <br>Email Me!
+      chrissal0604@gmail.com
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="icon" width="45" height="45" />
+      <br>Follow Me!
+      https://www.instagram.com/chris.sal04/
+    </td>
+</table>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=csalais3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 📜 Resume  
-📄 **Want to see my full resume?**  
-Click below to check it out!  
+<h3 align="center"><samp>💫 About Me:</samp></h3>
+I'm a machine learning researcher with a strong interest in optimizing meta-learning techniques. Currently, I'm a third-year Computer Science major at Georgia Institute of Technology, where I explore cutting-edge advancements in AI. When I'm not deep into research, I enjoy tackling complex problems, experimenting with new algorithms, and engaging with the broader ML community. Always open to collaborations and discussions—let’s connect!
+
+<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="icon" width="45" height="45" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="45" height="45" />
+      <br>C++
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=latex" alt="icon" width="45" height="45" />
+      <br>LaTEX
+    </td>
+      <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" alt="HTML5" />
+      <br>Obsidian
+    </td>
+            <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="45" height="45" />
+      <br>React.js
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=matlab" alt="icon" width="45" height="45" />
+      <br>Matlab
+    </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
+      <br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
+      <br>Github
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="45" height="45" />
+      <br>C#
+    </td>
+           <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+          <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>My SQL
+    </td>
+           <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+       
+  </tr>
+ <tr>
+        <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="postman" />
+      <br>R
+    </td>
+       <td align="center" width="100"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=django" alt="icon" width="45" height="45" />
+      <br>Django
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="android studio" />
+      <br>Pytorch
+    </td>
+            <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="VsCode" />
+      <br>Tensorflow
+    </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
+      <br>Linux
+    </td>
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
+      <br>Apple
+    </td>
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
+      <br>Windows
+    </td>          
+ </tr>
+</table>
+</div>
+
+<br>
+
+<h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <p align="center">
-  <a href="https://github.com/yourusername/yourresume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=read-the-docs" alt="Resume" />
-  </a>
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Csalais3&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&icon_color=5fa0fe">
+
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Csalais3&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=5fa0fe&text_color=ffffff">
+
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=Csalais3&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff">
+
+  <br>
+  <br>
+  <a href="https://ko-fi.com/csalais3"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="sugith-buymeacoffe" />     </a>
 </p>
-
----
-[![](https://visitcount.itsvg.in/api?id=csalais3&icon=9&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/csalais3) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
