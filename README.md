@@ -127,8 +127,8 @@ I'm a machine learning researcher with a strong interest in optimizing meta-lear
       <br>Tensorflow
     </td>
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
-      <br>Linux
+        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="firebase" />
+      <br>Rust
     </td>
      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
