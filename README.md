@@ -31,7 +31,7 @@
 <h3 align="center"><samp> About Me:</samp></h3>
 I'm a machine learning researcher with a strong interest in optimizing meta-learning techniques. Currently, I'm a third-year Computer Science major at Georgia Institute of Technology, where I explore cutting-edge advancements in AI. When I'm not deep into research, I enjoy tackling complex problems, experimenting with new algorithms, and engaging with the broader ML community. Always open to collaborations and discussions—let’s connect!
 
-<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
+<h3 align="center"><samp>Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
