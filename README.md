@@ -1,4 +1,4 @@
-<h2 align="center"><samp>Hi 👋 I'm Christian S</samp></h2>
+<h2 align="center"><samp>Hi, I'm Christian!</samp></h2>
 <h3 align="center"><samp>A Machine Learning Researcher Based in the United States</samp> </h3>
 <!--Visitor Number Badge -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Csalais3&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
@@ -28,7 +28,7 @@
 </div>
 
 
-<h3 align="center"><samp>💫 About Me:</samp></h3>
+<h3 align="center"><samp> About Me:</samp></h3>
 I'm a machine learning researcher with a strong interest in optimizing meta-learning techniques. Currently, I'm a third-year Computer Science major at Georgia Institute of Technology, where I explore cutting-edge advancements in AI. When I'm not deep into research, I enjoy tackling complex problems, experimenting with new algorithms, and engaging with the broader ML community. Always open to collaborations and discussions—let’s connect!
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
@@ -144,7 +144,7 @@ I'm a machine learning researcher with a strong interest in optimizing meta-lear
 
 <br>
 
-<h3 align="center"><samp>📟 GitHub Stats</samp></h3>
+<h3 align="center"><samp> GitHub Stats</samp></h3>
 <p align="center">
  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Csalais3&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&icon_color=5fa0fe">
 
