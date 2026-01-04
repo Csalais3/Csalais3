@@ -1,5 +1,5 @@
 <h2 align="center"><samp>Hi, I'm Christian!</samp></h2>
-<h3 align="center"><samp>A Machine Learning Researcher Based in the United States</samp> </h3>
+<h3 align="center"><samp>A Systems Engineer Based in the United States</samp> </h3>
 <!--Visitor Number Badge -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Csalais3&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
 
